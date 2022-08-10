@@ -5,14 +5,21 @@ html
 
 body 
 {
+    background-color: #5b5ea6;
     max-width: 1024px;
     margin: 0 auto;
+        float: none !important;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .about
 {
-    background-color: #FFB695;
+    background-color: #10ddc2;
+}
+
+.buttons 
+{
+    background-color: #000000;
 }
 
 img
@@ -23,18 +30,21 @@ img
         margin-right: auto;
         width: 200px;
         height: 200px;
-        max-width: 50%;
+        max-width: 100%;
         max-height: 50%;
 }
 h1
 {
+    color: #212121;
     margin: 20px;
     font-weight:bolder;
+    font-size: 5vw;
 }
 
 p
 {
     margin: 30px;
+    font-size: 2vw;
 }
 
 .column
