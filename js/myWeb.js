@@ -1,29 +1,4 @@
-// $(document).ready(function($) {
 
-
-// $("input[name='type']").click(function() {
-// if($("#Hiring").is(":checked") ) {
-//     $("#Wage").show();
-// } else {
-//     $("#Wage").hide();
-// }
-
-// });
-// });
-
-// $(document).ready(function($) {
-
-//     Moved inside $(document).ready()
-//     $("input[name='type']").click(function() {
-//       if ($("#Hiring").is(":checked")) {
-//         $("#Wage").show();
-//       } else {
-//         $("#Wage").hide();
-//       }
-//     });
-
-
-// });
     var wage=document.getElementById("Wage");
     var hiring=document.getElementById("Hiring");
     const comment=document.getElementById("Comment");
