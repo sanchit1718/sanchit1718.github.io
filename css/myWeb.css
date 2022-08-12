@@ -22,6 +22,22 @@ body
     background-color: #000000;
 }
 
+.button1
+{
+    background-color: #008CBA;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 14px 40px;
+}
+
+.button2
+{
+    background-color: #008CBA;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 14px 40px;
+}
+
 img
 {
         display: block;
@@ -72,4 +88,10 @@ p
 #Wage
 {
     display:none;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
 }
